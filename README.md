@@ -9,9 +9,10 @@ This repository is my personal space for projects, experiments, and continuous l
 - 📚 Exploring **Kubernetes** and **Terraform** while setting up my own homelab.
 
 ## 🛠️ Tech & Tools
-- **Languages**: TypeScript, Python, HTML, CSS, SQL
-- **Frameworks & Libraries**: React, Next.js, Node.js, Angular, TailwindCSS, ShadCN
-- **Tools & DevOps**: Git, Docker, Kubernetes, shadcn/ui
+- **Web Technologies**: HTML, CSS, Python, Solidity
+- **Frameworks & Libraries**: React, Next.js, Node.js, TailwindCSS, shadcn/ui, Angular
+- **Tools & DevOps**: Git, Docker, Jira, Google Workspace, Figma, Slack
+- **Databases**: SQL, MongoDB, PostgreSQL
 
 ## 📂 Notable Repositories
 - 🔹 **[FelixWilberg.com](https://felixwilberg.com)** – My personal website and portfolio, showcasing my work, blog posts, and projects.
