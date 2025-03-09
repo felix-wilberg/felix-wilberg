@@ -11,7 +11,7 @@ This repository is my personal space for projects, experiments, and continuous l
 ## 🛠️ Tech & Tools
 - **Web Technologies**: HTML, CSS, Python, Solidity
 - **Frameworks & Libraries**: React, Next.js, Node.js, TailwindCSS, shadcn/ui, Angular
-- **Tools & DevOps**: Git, Docker, Jira, Google Workspace, Figma, Slack
+- **Tools**: Git, Docker, Jira, Google Workspace, Figma, Slack
 - **Databases**: SQL, MongoDB, PostgreSQL
 
 ## 📂 Notable Repositories
