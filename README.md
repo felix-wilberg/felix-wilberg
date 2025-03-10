@@ -9,7 +9,7 @@ This repository is my personal space for projects, experiments, and continuous l
 - 📚 Exploring **Kubernetes** and **Terraform** while setting up my own homelab.
 
 ## 🛠️ Tech & Tools
-- **Web Technologies**: HTML, CSS, TypeScript, JavaScript Python, Solidity
+- **Web Technologies**: HTML, CSS, TypeScript, JavaScript, Python, Solidity
 - **Frameworks & Libraries**: React, Next.js, Node.js, TailwindCSS, shadcn/ui, Angular
 - **Tools**: Git, Docker, Jira, Google Workspace, Figma, Slack
 - **Databases**: SQL, MongoDB, PostgreSQL
