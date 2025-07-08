@@ -5,7 +5,7 @@ This repository is my personal space for projects, experiments, and continuous l
 
 ## 🚀 About Me
 - 💻 Passionate about **web development**, **user experience** and **usability**.
-- 🎯 Currently working on my **master's thesis**: *Validation of LLM-generated knowledge with knowledge graphs and news articles*.
+- 🎯 Currently working on my **master's thesis**: *Large-Language-Model based Knowledge Creation Verified by Knowledge Graphs and News Articles*.
 - 📚 Exploring **Kubernetes** and **Terraform** while setting up my own homelab.
 
 ## 🛠️ Tech & Tools
@@ -18,6 +18,6 @@ This repository is my personal space for projects, experiments, and continuous l
 - 🔹 **[FelixWilberg.com](https://felixwilberg.com)** – My personal website and portfolio, showcasing my work, blog posts, and projects.
 
 ## 📫 Connect With Me
-- 🌐 [Portfolio/Website](https://felixwilberg.com)
+- 🌐 [Website](https://felixwilberg.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/felix-wilberg/)
 - ✉️ [Email](mailto:felix@felixwilberg.com)  
